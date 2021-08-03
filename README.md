@@ -1,3 +1,3 @@
 # hello-world
 Learn to use github.
-30 year old.
+30 years old.
